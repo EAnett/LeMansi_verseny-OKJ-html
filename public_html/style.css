@@ -1,0 +1,23 @@
+#content {
+    width: 800px;
+    margin: auto;
+    background-color: rgb(167, 153, 153);
+}
+b {
+    color: yellow;
+}
+h1 {
+    font-variant-caps: small-caps;
+}
+p, ul {
+    text-align: justify;
+}
+.container {
+    padding: 20px;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: red;
+}
